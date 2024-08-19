@@ -85,7 +85,7 @@ Bu program, Python 3.x sürümü ile çalışır.
 
 ## Geliştirici
 
-Orcun Turkokuloglu
+Orçun Türkokuloğlu
 
 ## Lisans
 
