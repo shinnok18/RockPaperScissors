@@ -47,23 +47,35 @@ Bu Python uygulaması, klasik "Taş, Kağıt, Makas" oyununu oynayabileceğiniz 
 ## Örnek Kullanım
 
 Taş, Kağıt, Makas Oyununa Hoş Geldiniz!
+
 Kurallar: Taş makası yener, makas kağıdı yener, kağıt ise taşı yener.
+
 İlk iki turu kazanan oyunu kazanır. Oyundan çıkmak için 'çıkış' yazabilirsiniz.
+
 Zorluk seviyesini seçin (kolay/orta/zor): zor
 
 1. Oyun başlıyor!
+   
 Taş, Kağıt, Makas? (Çıkmak için 'çıkış'): taş
+
 Bilgisayarın seçimi: kağıt
+
 Bilgisayar 1. turu kazandı!
 
 Taş, Kağıt, Makas? (Çıkmak için 'çıkış'): makas
+
 Bilgisayarın seçimi: taş
+
 Bilgisayar 2. turu kazandı!
 
 Bilgisayar 1. oyunu kazandı!
+
 Toplam Skor: 1 - Oyuncu: 0, Bilgisayar: 1
+
 Başka bir oyun oynamak ister misiniz? (evet/hayır): hayır
+
 Oyun bitti, teşekkürler!
+
 Toplam Oyunlar: 1, Oyuncu Galibiyetleri: 0, Bilgisayar Galibiyetleri: 1
 
 
